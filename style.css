@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+
+.eape-embed-file-name {
+    font-family: Arial, Helvetica, sans-serif!important;
+}
+
+.eape-embed-file-linkWrapper a{
+    font-family: Arial, Helvetica, sans-serif!important;
+
+}
+
+.eapps-social-icons-location-floating.eapps-social-icons-position-left {
+    left: 15%!important;
+    
+}
+
+
+.footer p{
+    width:100%;
+    background-color:black;
+    margin:0;
+    padding:0;
+    text-align:center;
+    color:white;
+    font-size: 1rem;
+    font-family:'Courier New', Courier, monospace;
+    padding:0.5em;
+}
+
+.footer a{
+    color:yellow;
+    text-decoration:none;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .footer p {
+      font-size: 0.6rem;
+    }
+  }

@@ -1,0 +1,19 @@
+{
+  "name": "jason",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elfsight/embed-sdk": "^0.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "description": ""
+}
