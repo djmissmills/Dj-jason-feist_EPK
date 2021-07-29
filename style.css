@@ -1,6 +1,8 @@
 body{
     margin:0;
     padding:0;
+    height:100vh;
+    background-color:black;
 }
 
 
@@ -29,6 +31,9 @@ body{
     font-size: 1rem;
     font-family:'Courier New', Courier, monospace;
     padding:0.5em;
+    position:fixed;
+    left: 0;
+  bottom: 0;
 }
 
 .footer a{
