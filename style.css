@@ -52,6 +52,18 @@ body{
       display:none!important;
   }
 
+  .sPCCy {
+    position: fixed;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    bottom: 5em!important;
+    right: 12px;
+    color: rgb(0, 0, 0);
+    z-index: 999999999;
+}
+
   .jsx-291331343>a{
       display:none!important;
   }
